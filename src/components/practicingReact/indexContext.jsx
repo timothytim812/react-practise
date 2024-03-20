@@ -45,7 +45,7 @@ export const Practice6 = () => {
         className="m-5 bg-teal-500 text-slate-200 p-10 
       rounded shadow-2xl text-xl text-center"
       >
-        <label htmlFor="#name-input" className="text-2xl">Name :</label>
+        <label htmlFor="name-input" className="text-2xl">Name :</label>
         <input id="name-input" className="ml-2 border-2 rounded-lg p-2 text-slate-600"
           type="text"
           value={newUsername}
