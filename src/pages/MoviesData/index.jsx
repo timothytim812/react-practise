@@ -1,5 +1,4 @@
-import MovieWebsite from "../../components/MoviesFetch/film.jsx";
-import Movies from "../../components/MoviesFetch/film.jsx";
+import MovieWebsite from "../../components/MoviesFetch/movies.jsx";
 
 
 
